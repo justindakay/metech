@@ -15,7 +15,7 @@
         
     </head>
     <body>
-       <!-- <h1>hey</h1> add-->
+       <!-- <h1>hey</h1> add main-->
         <div id="app">
                 <example-component></example-component>
         </div>
